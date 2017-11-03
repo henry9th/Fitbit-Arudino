@@ -4,11 +4,11 @@ Final project for CSE132 where we modeled a FitBit using an Arduino. The dynamic
 
 ### Step Counter Demo: 
 
-<img src="https://media.giphy.com/media/xT0CyM5Sm18zjySPPa/giphy.gif" width="400"> 
+<img src="https://media.giphy.com/media/xT0CyM5Sm18zjySPPa/giphy.gif" width="450"> 
 
 ### Sleep Counter Demo: 
 
-<img src="https://media.giphy.com/media/3o6gg6NyNbp0V4zj4Q/giphy.gif" width="400"> 
+<img src="https://media.giphy.com/media/xT0CytQlmXkMsrl2Pm/giphy.gif" width="450"> 
 
 ### Features: 
 - Measures temperature using TMP35
