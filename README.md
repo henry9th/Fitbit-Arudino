@@ -1,8 +1,16 @@
 # FitBit Model with Arduino
 
-Final project for CSE132 where we were supposed to model a FitBit using an Arduino. The dynamic graph is unique to my project. The graph was displayed using the StdDraw class. 
+Final project for CSE132 where we modeled a FitBit using an Arduino. The dynamic graph is unique to my project. The graph was displayed using the StdDraw class. 
 
-Features: 
+### Step Counter Demo: 
+
+<img src="https://media.giphy.com/media/xT0CyM5Sm18zjySPPa/giphy.gif" width="400"> 
+
+### Sleep Counter Demo: 
+
+<img src="https://media.giphy.com/media/3o6gg6NyNbp0V4zj4Q/giphy.gif" width="400"> 
+
+### Features: 
 - Measures temperature using TMP35
 - Detects steps with simple peak detection using an accelerometer
 - Measures "restful sleep" which is sleep when the user isn't moving with an accelerometer
@@ -11,4 +19,5 @@ Features:
 - Dynamic graph displays the above information
 
 
-Note: The chart class displays bad coding practice as certain aspects were coded through trial-and-error 
+### Note: 
+- The chart class displays bad coding practice as certain aspects were coded through trial-and-error 
